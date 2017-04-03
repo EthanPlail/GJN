@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11762" systemVersion="16E154a" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Llm-lL-Icb"/>
+                        <viewControllerLayoutGuide type="bottom" id="xb3-aO-Qok"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <activityIndicatorView opaque="NO" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" ambiguous="YES" misplaced="YES" animating="YES" style="gray" translatesAutoresizingMaskIntoConstraints="NO" id="PAw-vf-aw0">
+                                <rect key="frame" x="177" y="456" width="20" height="20"/>
+                            </activityIndicatorView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="GoodSheild60.jpeg" translatesAutoresizingMaskIntoConstraints="NO" id="g62-Vc-ZJs">
+                                <rect key="frame" x="67" y="171" width="240" height="240"/>
+                                <accessibility key="accessibilityConfiguration" label="Good Jobs Defense">
+                                    <bool key="isElement" value="YES"/>
+                                </accessibility>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="PAw-vf-aw0" firstAttribute="top" secondItem="g62-Vc-ZJs" secondAttribute="bottom" constant="59" id="KRI-Oe-fHd"/>
+                            <constraint firstItem="g62-Vc-ZJs" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="SPJ-AY-nKY"/>
+                            <constraint firstItem="g62-Vc-ZJs" firstAttribute="top" secondItem="Llm-lL-Icb" secondAttribute="bottom" constant="249" id="Wn9-t0-VJf"/>
+                            <constraint firstItem="g62-Vc-ZJs" firstAttribute="width" secondItem="Ze5-6b-2t3" secondAttribute="width" id="eg9-WA-TmW"/>
+                            <constraint firstItem="PAw-vf-aw0" firstAttribute="width" secondItem="Ze5-6b-2t3" secondAttribute="width" id="gTW-Am-9dW"/>
+                            <constraint firstItem="g62-Vc-ZJs" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="oCg-b5-FcH"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="view" destination="g62-Vc-ZJs" id="Foe-Vf-9WG"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="53" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="GoodSheild60.jpeg" width="167" height="167"/>
+    </resources>
+</document>

@@ -1,0 +1,312 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		566A1A731E6FA263004F4E64 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566A1A721E6FA263004F4E64 /* AppDelegate.swift */; };
+		566A1A751E6FA263004F4E64 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566A1A741E6FA263004F4E64 /* ViewController.swift */; };
+		566A1A781E6FA263004F4E64 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 566A1A761E6FA263004F4E64 /* Main.storyboard */; };
+		566A1A7A1E6FA263004F4E64 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 566A1A791E6FA263004F4E64 /* Assets.xcassets */; };
+		566A1A7D1E6FA263004F4E64 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 566A1A7B1E6FA263004F4E64 /* LaunchScreen.storyboard */; };
+		566A1A851E6FA9BF004F4E64 /* Images in Resources */ = {isa = PBXBuildFile; fileRef = 566A1A841E6FA9BF004F4E64 /* Images */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		566A1A6F1E6FA263004F4E64 /* Good Jobs Nation Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Good Jobs Nation Test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		566A1A721E6FA263004F4E64 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		566A1A741E6FA263004F4E64 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		566A1A771E6FA263004F4E64 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		566A1A791E6FA263004F4E64 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		566A1A7C1E6FA263004F4E64 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		566A1A7E1E6FA263004F4E64 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		566A1A841E6FA9BF004F4E64 /* Images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Images; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		566A1A6C1E6FA262004F4E64 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		566A1A661E6FA262004F4E64 = {
+			isa = PBXGroup;
+			children = (
+				566A1A711E6FA263004F4E64 /* Good Jobs Nation Test */,
+				566A1A701E6FA263004F4E64 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		566A1A701E6FA263004F4E64 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				566A1A6F1E6FA263004F4E64 /* Good Jobs Nation Test.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		566A1A711E6FA263004F4E64 /* Good Jobs Nation Test */ = {
+			isa = PBXGroup;
+			children = (
+				566A1A841E6FA9BF004F4E64 /* Images */,
+				566A1A721E6FA263004F4E64 /* AppDelegate.swift */,
+				566A1A741E6FA263004F4E64 /* ViewController.swift */,
+				566A1A761E6FA263004F4E64 /* Main.storyboard */,
+				566A1A791E6FA263004F4E64 /* Assets.xcassets */,
+				566A1A7B1E6FA263004F4E64 /* LaunchScreen.storyboard */,
+				566A1A7E1E6FA263004F4E64 /* Info.plist */,
+			);
+			path = "Good Jobs Nation Test";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		566A1A6E1E6FA262004F4E64 /* Good Jobs Nation Test */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 566A1A811E6FA263004F4E64 /* Build configuration list for PBXNativeTarget "Good Jobs Nation Test" */;
+			buildPhases = (
+				566A1A6B1E6FA262004F4E64 /* Sources */,
+				566A1A6C1E6FA262004F4E64 /* Frameworks */,
+				566A1A6D1E6FA262004F4E64 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Good Jobs Nation Test";
+			productName = "Good Jobs Nation Test";
+			productReference = 566A1A6F1E6FA263004F4E64 /* Good Jobs Nation Test.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		566A1A671E6FA262004F4E64 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0820;
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = com.goodjobsnationTesting;
+				TargetAttributes = {
+					566A1A6E1E6FA262004F4E64 = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = DCATC82KHD;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 566A1A6A1E6FA262004F4E64 /* Build configuration list for PBXProject "Good Jobs Nation Test" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 566A1A661E6FA262004F4E64;
+			productRefGroup = 566A1A701E6FA263004F4E64 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				566A1A6E1E6FA262004F4E64 /* Good Jobs Nation Test */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		566A1A6D1E6FA262004F4E64 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				566A1A851E6FA9BF004F4E64 /* Images in Resources */,
+				566A1A7D1E6FA263004F4E64 /* LaunchScreen.storyboard in Resources */,
+				566A1A7A1E6FA263004F4E64 /* Assets.xcassets in Resources */,
+				566A1A781E6FA263004F4E64 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		566A1A6B1E6FA262004F4E64 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				566A1A751E6FA263004F4E64 /* ViewController.swift in Sources */,
+				566A1A731E6FA263004F4E64 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		566A1A761E6FA263004F4E64 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				566A1A771E6FA263004F4E64 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		566A1A7B1E6FA263004F4E64 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				566A1A7C1E6FA263004F4E64 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		566A1A7F1E6FA263004F4E64 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		566A1A801E6FA263004F4E64 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		566A1A821E6FA263004F4E64 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = DCATC82KHD;
+				INFOPLIST_FILE = "Good Jobs Nation Test/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Plail.Good-Jobs-Nation-Test";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		566A1A831E6FA263004F4E64 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = DCATC82KHD;
+				INFOPLIST_FILE = "Good Jobs Nation Test/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Plail.Good-Jobs-Nation-Test";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		566A1A6A1E6FA262004F4E64 /* Build configuration list for PBXProject "Good Jobs Nation Test" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				566A1A7F1E6FA263004F4E64 /* Debug */,
+				566A1A801E6FA263004F4E64 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		566A1A811E6FA263004F4E64 /* Build configuration list for PBXNativeTarget "Good Jobs Nation Test" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				566A1A821E6FA263004F4E64 /* Debug */,
+				566A1A831E6FA263004F4E64 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 566A1A671E6FA262004F4E64 /* Project object */;
+}
