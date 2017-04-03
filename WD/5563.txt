@@ -1,0 +1,626 @@
+WD 15-5563 (Rev.-1) was first posted on www.wdol.gov on 01/17/2017
+************************************************************************************
+REGISTER OF WAGE DETERMINATIONS UNDER  |        U.S. DEPARTMENT OF LABOR
+       THE SERVICE CONTRACT ACT        |  EMPLOYMENT STANDARDS ADMINISTRATION
+By direction of the Secretary of Labor |         WAGE AND HOUR DIVISION
+                                       |         WASHINGTON D.C.  20210
+                                       |
+                                       |
+                                       |
+                                       | Wage Determination No.: 2015-5563
+Daniel W. Simms          Division of   |           Revision No.: 1
+Director            Wage Determinations|       Date Of Revision: 01/12/2017
+_______________________________________|____________________________________________
+Note: Under Executive Order (EO) 13658, an hourly minimum wage of $10.20 for
+calendar year 2017 applies to all contracts subject to the Service Contract
+Act for which the contract is awarded (and any solicitation was issued) on or
+after January 1, 2015. If this contract is covered by the EO, the contractor
+must pay all workers in any classification listed on this wage determination
+at least $10.20 per hour (or the applicable wage rate listed on this wage
+determination, if it is higher) for all hours spent performing on the contract
+in calendar year 2017. The EO minimum wage rate will be adjusted annually.
+Additional information on contractor requirements and worker protections under
+the EO is available at www.dol.gov/whd/govcontracts.
+____________________________________________________________________________________
+States: Oregon, Washington
+
+Area: Oregon Counties of Clackamas, Columbia, Multnomah, Washington, Yamhill
+Washington Counties of Clark, Skamania
+____________________________________________________________________________________
+          **Fringe Benefits Required Follow the Occupational Listing**
+OCCUPATION CODE - TITLE                                  FOOTNOTE               RATE
+01000 - Administrative Support And Clerical Occupations
+  01011 - Accounting Clerk I                                                   14.96
+  01012 - Accounting Clerk II                                                  16.80
+  01013 - Accounting Clerk III                                                 19.91
+  01020 - Administrative Assistant                                             23.84
+  01035 - Court Reporter                                                       19.88
+  01041 - Customer Service Representative I                                    13.73
+  01042 - Customer Service Representative II                                   15.43
+  01043 - Customer Service Representative III                                  16.83
+  01051 - Data Entry Operator I                                                13.02
+  01052 - Data Entry Operator II                                               14.28
+  01060 - Dispatcher, Motor Vehicle                                            19.88
+  01070 - Document Preparation Clerk                                           14.71
+  01090 - Duplicating Machine Operator                                         14.71
+  01111 - General Clerk I                                                      13.18
+  01112 - General Clerk II                                                     14.37
+  01113 - General Clerk III                                                    17.33
+  01120 - Housing Referral Assistant                                           20.42
+  01141 - Messenger Courier                                                    15.53
+  01191 - Order Clerk I                                                        14.32
+  01192 - Order Clerk II                                                       16.53
+  01261 - Personnel Assistant (Employment) I                                   15.71
+  01262 - Personnel Assistant (Employment) II                                  19.59
+  01263 - Personnel Assistant (Employment) III                                 20.55
+  01270 - Production Control Clerk                                             22.23
+  01290 - Rental Clerk                                                         15.98
+  01300 - Scheduler, Maintenance                                               16.38
+  01311 - Secretary I                                                          16.38
+  01312 - Secretary II                                                         18.32
+  01313 - Secretary III                                                        20.42
+  01320 - Service Order Dispatcher                                             17.40
+  01410 - Supply Technician                                                    23.84
+  01420 - Survey Worker                                                        19.88
+  01460 - Switchboard Operator/Receptionist                                    14.41
+  01531 - Travel Clerk I                                                       13.60
+  01532 - Travel Clerk II                                                      16.64
+  01533 - Travel Clerk III                                                     15.93
+  01611 - Word Processor I                                                     14.37
+  01612 - Word Processor II                                                    16.14
+  01613 - Word Processor III                                                   19.59
+05000 - Automotive Service Occupations
+  05005 - Automobile Body Repairer, Fiberglass                                 19.95
+  05010 - Automotive  Electrician                                              19.90
+  05040 - Automotive Glass Installer                                           18.97
+  05070 - Automotive Worker                                                    18.97
+  05110 - Mobile Equipment Servicer                                            17.05
+  05130 - Motor Equipment Metal Mechanic                                       21.03
+  05160 - Motor Equipment Metal Worker                                         18.97
+  05190 - Motor Vehicle Mechanic                                               21.03
+  05220 - Motor Vehicle Mechanic Helper                                        16.04
+  05250 - Motor Vehicle Upholstery Worker                                      18.04
+  05280 - Motor Vehicle Wrecker                                                18.97
+  05310 - Painter, Automotive                                                  19.90
+  05340 - Radiator Repair Specialist                                           18.97
+  05370 - Tire Repairer                                                        14.74
+  05400 - Transmission Repair Specialist                                       21.03
+07000 - Food Preparation And Service Occupations
+  07010 - Baker                                                                13.87
+  07041 - Cook I                                                               14.02
+  07042 - Cook II                                                              15.74
+  07070 - Dishwasher                                                            9.93
+  07130 - Food Service Worker                                                  11.06
+  07210 - Meat Cutter                                                          17.81
+  07260 - Waiter/Waitress                                                      10.50
+09000 - Furniture Maintenance And Repair Occupations
+  09010 - Electrostatic Spray Painter                                          16.58
+  09040 - Furniture Handler                                                    11.96
+  09080 - Furniture Refinisher                                                 16.85
+  09090 - Furniture Refinisher Helper                                          13.62
+  09110 - Furniture Repairer, Minor                                            15.32
+  09130 - Upholsterer                                                          16.58
+11000 - General Services And Support Occupations
+  11030 - Cleaner, Vehicles                                                    11.67
+  11060 - Elevator Operator                                                    12.49
+  11090 - Gardener                                                             16.58
+  11122 - Housekeeping Aide                                                    12.49
+  11150 - Janitor                                                              12.49
+  11210 - Laborer, Grounds Maintenance                                         13.16
+  11240 - Maid or Houseman                                                     11.47
+  11260 - Pruner                                                               12.06
+  11270 - Tractor Operator                                                     16.04
+  11330 - Trail Maintenance Worker                                             13.16
+  11360 - Window Cleaner                                                       13.68
+12000 - Health Occupations
+  12010 - Ambulance Driver                                                     20.59
+  12011 - Breath Alcohol Technician                                            20.59
+  12012 - Certified Occupational Therapist Assistant                           24.78
+  12015 - Certified Physical Therapist Assistant                               24.18
+  12020 - Dental Assistant                                                     19.49
+  12025 - Dental Hygienist                                                     36.69
+  12030 - EKG Technician                                                       32.62
+  12035 - Electroneurodiagnostic Technologist                                  32.62
+  12040 - Emergency Medical Technician                                         20.59
+  12071 - Licensed Practical Nurse I                                           19.65
+  12072 - Licensed Practical Nurse II                                          21.98
+  12073 - Licensed Practical Nurse III                                         24.51
+  12100 - Medical Assistant                                                    16.70
+  12130 - Medical Laboratory Technician                                        20.05
+  12160 - Medical Record Clerk                                                 15.75
+  12190 - Medical Record Technician                                            17.62
+  12195 - Medical Transcriptionist                                             19.98
+  12210 - Nuclear Medicine Technologist                                        41.69
+  12221 - Nursing Assistant I                                                  10.35
+  12222 - Nursing Assistant II                                                 11.63
+  12223 - Nursing Assistant III                                                12.68
+  12224 - Nursing Assistant IV                                                 14.25
+  12235 - Optical Dispenser                                                    17.51
+  12236 - Optical Technician                                                   15.09
+  12250 - Pharmacy Technician                                                  17.09
+  12280 - Phlebotomist                                                         14.25
+  12305 - Radiologic Technologist                                              33.05
+  12311 - Registered Nurse I                                                   29.04
+  12312 - Registered Nurse II                                                  35.53
+  12313 - Registered Nurse II, Specialist                                      35.53
+  12314 - Registered Nurse III                                                 42.99
+  12315 - Registered Nurse III, Anesthetist                                    42.99
+  12316 - Registered Nurse IV                                                  51.52
+  12317 - Scheduler (Drug and Alcohol Testing)                                 25.52
+  12320 - Substance Abuse Treatment Counselor                                  20.16
+13000 - Information And Arts Occupations
+  13011 - Exhibits Specialist I                                                21.73
+  13012 - Exhibits Specialist II                                               26.93
+  13013 - Exhibits Specialist III                                              31.53
+  13041 - Illustrator I                                                        18.35
+  13042 - Illustrator II                                                       22.74
+  13043 - Illustrator III                                                      27.81
+  13047 - Librarian                                                            28.75
+  13050 - Library Aide/Clerk                                                   14.88
+  13054 - Library Information Technology Systems                               25.96
+  Administrator
+  13058 - Library Technician                                                   17.07
+  13061 - Media Specialist I                                                   18.74
+  13062 - Media Specialist II                                                  20.97
+  13063 - Media Specialist III                                                 23.36
+  13071 - Photographer I                                                       16.64
+  13072 - Photographer II                                                      18.61
+  13073 - Photographer III                                                     23.06
+  13074 - Photographer IV                                                      28.20
+  13075 - Photographer V                                                       34.12
+  13090 - Technical Order Library Clerk                                        19.68
+  13110 - Video Teleconference Technician                                      19.06
+14000 - Information Technology Occupations
+  14041 - Computer Operator I                                                  16.61
+  14042 - Computer Operator II                                                 18.58
+  14043 - Computer Operator III                                                20.71
+  14044 - Computer Operator IV                                                 23.01
+  14045 - Computer Operator V                                                  25.49
+  14071 - Computer Programmer I                          (see 1)               21.11
+  14072 - Computer Programmer II                         (see 1)               26.16
+  14073 - Computer Programmer III                        (see 1)
+  14074 - Computer Programmer IV                         (see 1)
+  14101 - Computer Systems Analyst I                     (see 1)
+  14102 - Computer Systems Analyst II                    (see 1)
+  14103 - Computer Systems Analyst III                   (see 1)
+  14150 - Peripheral Equipment Operator                                        16.61
+  14160 - Personal Computer Support Technician                                 23.01
+  14170 - System Support Specialist                                            28.19
+15000 - Instructional Occupations
+  15010 - Aircrew Training Devices Instructor (Non-Rated)                      28.93
+  15020 - Aircrew Training Devices Instructor (Rated)                          35.01
+  15030 - Air Crew Training Devices Instructor (Pilot)                         41.96
+  15050 - Computer Based Training Specialist / Instructor                      28.93
+  15060 - Educational Technologist                                             33.06
+  15070 - Flight Instructor (Pilot)                                            41.96
+  15080 - Graphic Artist                                                       22.85
+  15085 - Maintenance Test Pilot, Fixed, Jet/Prop                              41.96
+  15086 - Maintenance Test Pilot, Rotary Wing                                  41.96
+  15088 - Non-Maintenance Test/Co-Pilot                                        41.96
+  15090 - Technical Instructor                                                 22.43
+  15095 - Technical Instructor/Course Developer                                27.45
+  15110 - Test Proctor                                                         18.92
+  15120 - Tutor                                                                18.92
+16000 - Laundry, Dry-Cleaning, Pressing And Related Occupations
+  16010 - Assembler                                                            10.86
+  16030 - Counter Attendant                                                    10.86
+  16040 - Dry Cleaner                                                          13.64
+  16070 - Finisher, Flatwork, Machine                                          10.86
+  16090 - Presser, Hand                                                        10.86
+  16110 - Presser, Machine, Drycleaning                                        10.86
+  16130 - Presser, Machine, Shirts                                             10.86
+  16160 - Presser, Machine, Wearing Apparel, Laundry                           10.86
+  16190 - Sewing Machine Operator                                              14.51
+  16220 - Tailor                                                               15.09
+  16250 - Washer, Machine                                                      11.77
+19000 - Machine Tool Operation And Repair Occupations
+  19010 - Machine-Tool Operator (Tool Room)                                    21.40
+  19040 - Tool And Die Maker                                                   26.82
+21000 - Materials Handling And Packing Occupations
+  21020 - Forklift Operator                                                    16.38
+  21030 - Material Coordinator                                                 21.65
+  21040 - Material Expediter                                                   21.65
+  21050 - Material Handling Laborer                                            13.22
+  21071 - Order Filler                                                         13.85
+  21080 - Production Line Worker (Food Processing)                             16.38
+  21110 - Shipping Packer                                                      15.30
+  21130 - Shipping/Receiving Clerk                                             15.30
+  21140 - Store Worker I                                                       13.72
+  21150 - Stock Clerk                                                          18.05
+  21210 - Tools And Parts Attendant                                            16.38
+  21410 - Warehouse Specialist                                                 16.38
+23000 - Mechanics And Maintenance And Repair Occupations
+  23010 - Aerospace Structural Welder                                          28.39
+  23019 - Aircraft Logs and Records Technician                                 23.70
+  23021 - Aircraft Mechanic I                                                  26.93
+  23022 - Aircraft Mechanic II                                                 28.39
+  23023 - Aircraft Mechanic III                                                29.84
+  23040 - Aircraft Mechanic Helper                                             20.63
+  23050 - Aircraft, Painter                                                    24.87
+  23060 - Aircraft Servicer                                                    23.70
+  23070 - Aircraft Survival Flight Equipment Technician                        24.87
+  23080 - Aircraft Worker                                                      25.18
+  23091 - Aircrew Life Support Equipment (ALSE) Mechanic                       25.18
+  I
+  23092 - Aircrew Life Support Equipment (ALSE) Mechanic                       26.93
+  II
+  23110 - Appliance Mechanic                                                   17.48
+  23120 - Bicycle Repairer                                                     13.76
+  23125 - Cable Splicer                                                        34.74
+  23130 - Carpenter, Maintenance                                               22.31
+  23140 - Carpet Layer                                                         21.76
+  23160 - Electrician, Maintenance                                             32.99
+  23181 - Electronics Technician Maintenance I                                 23.63
+  23182 - Electronics Technician Maintenance II                                26.87
+  23183 - Electronics Technician Maintenance III                               28.38
+  23260 - Fabric Worker                                                        22.59
+  23290 - Fire Alarm System Mechanic                                           23.07
+  23310 - Fire Extinguisher Repairer                                           20.85
+  23311 - Fuel Distribution System Mechanic                                    26.01
+  23312 - Fuel Distribution System Operator                                    20.38
+  23370 - General Maintenance Worker                                           19.49
+  23380 - Ground Support Equipment Mechanic                                    26.93
+  23381 - Ground Support Equipment Servicer                                    23.70
+  23382 - Ground Support Equipment Worker                                      25.18
+  23391 - Gunsmith I                                                           20.85
+  23392 - Gunsmith II                                                          23.70
+  23393 - Gunsmith III                                                         26.61
+  23410 - Heating, Ventilation And Air-Conditioning                            23.42
+  Mechanic
+  23411 - Heating, Ventilation And Air Contditioning                           24.70
+  Mechanic (Research Facility)
+  23430 - Heavy Equipment Mechanic                                             24.02
+  23440 - Heavy Equipment Operator                                             25.84
+  23460 - Instrument Mechanic                                                  29.44
+  23465 - Laboratory/Shelter Mechanic                                          25.18
+  23470 - Laborer                                                              12.87
+  23510 - Locksmith                                                            18.24
+  23530 - Machinery Maintenance Mechanic                                       25.29
+  23550 - Machinist, Maintenance                                               25.12
+  23580 - Maintenance Trades Helper                                            14.74
+  23591 - Metrology Technician I                                               29.44
+  23592 - Metrology Technician II                                              31.01
+  23593 - Metrology Technician III                                             32.60
+  23640 - Millwright                                                           28.28
+  23710 - Office Appliance Repairer                                            20.53
+  23760 - Painter, Maintenance                                                 18.24
+  23790 - Pipefitter, Maintenance                                              34.05
+  23810 - Plumber, Maintenance                                                 30.39
+  23820 - Pneudraulic Systems Mechanic                                         26.61
+  23850 - Rigger                                                               24.74
+  23870 - Scale Mechanic                                                       23.70
+  23890 - Sheet-Metal Worker, Maintenance                                      24.40
+  23910 - Small Engine Mechanic                                                16.36
+  23931 - Telecommunications Mechanic I                                        28.57
+  23932 - Telecommunications Mechanic II                                       30.12
+  23950 - Telephone Lineman                                                    24.08
+  23960 - Welder, Combination, Maintenance                                     21.08
+  23965 - Well Driller                                                         24.60
+  23970 - Woodcraft Worker                                                     26.61
+  23980 - Woodworker                                                           16.06
+24000 - Personal Needs Occupations
+  24550 - Case Manager                                                         15.33
+  24570 - Child Care Attendant                                                 11.08
+  24580 - Child Care Center Clerk                                              14.34
+  24610 - Chore Aide                                                           11.10
+  24620 - Family Readiness And Support Services                                15.33
+  Coordinator
+  24630 - Homemaker                                                            16.21
+25000 - Plant And System Operations Occupations
+  25010 - Boiler Tender                                                        28.70
+  25040 - Sewage Plant Operator                                                24.43
+  25070 - Stationary Engineer                                                  28.70
+  25190 - Ventilation Equipment Tender                                         20.98
+  25210 - Water Treatment Plant Operator                                       24.43
+27000 - Protective Service Occupations
+  27004 - Alarm Monitor                                                        23.43
+  27007 - Baggage Inspector                                                    13.41
+  27008 - Corrections Officer                                                  26.05
+  27010 - Court Security Officer                                               28.02
+  27030 - Detection Dog Handler                                                16.79
+  27040 - Detention Officer                                                    26.05
+  27070 - Firefighter                                                          26.29
+  27101 - Guard I                                                              13.41
+  27102 - Guard II                                                             16.79
+  27131 - Police Officer I                                                     30.39
+  27132 - Police Officer II                                                    33.77
+28000 - Recreation Occupations
+  28041 - Carnival Equipment Operator                                          13.01
+  28042 - Carnival Equipment Repairer                                          13.82
+  28043 - Carnival Worker                                                      10.60
+  28210 - Gate Attendant/Gate Tender                                           16.16
+  28310 - Lifeguard                                                            12.65
+  28350 - Park Attendant (Aide)                                                18.07
+  28510 - Recreation Aide/Health Facility Attendant                            12.93
+  28515 - Recreation Specialist                                                19.47
+  28630 - Sports Official                                                      14.40
+  28690 - Swimming Pool Operator                                               19.18
+29000 - Stevedoring/Longshoremen Occupational Services
+  29010 - Blocker And Bracer                                                   24.97
+  29020 - Hatch Tender                                                         24.97
+  29030 - Line Handler                                                         24.97
+  29041 - Stevedore I                                                          23.50
+  29042 - Stevedore II                                                         26.53
+30000 - Technical Occupations
+  30010 - Air Traffic Control Specialist, Center (HFO)   (see 2)               38.97
+  30011 - Air Traffic Control Specialist, Station (HFO)  (see 2)               26.87
+  30012 - Air Traffic Control Specialist, Terminal (HFO) (see 2)               29.59
+  30021 - Archeological Technician I                                           16.79
+  30022 - Archeological Technician II                                          18.78
+  30023 - Archeological Technician III                                         23.28
+  30030 - Cartographic Technician                                              23.28
+  30040 - Civil Engineering Technician                                         27.79
+  30051 - Cryogenic Technician I                                               25.77
+  30052 - Cryogenic Technician II                                              28.46
+  30061 - Drafter/CAD Operator I                                               16.79
+  30062 - Drafter/CAD Operator II                                              18.78
+  30063 - Drafter/CAD Operator III                                             20.94
+  30064 - Drafter/CAD Operator IV                                              25.77
+  30081 - Engineering Technician I                                             16.14
+  30082 - Engineering Technician II                                            18.13
+  30083 - Engineering Technician III                                           20.29
+  30084 - Engineering Technician IV                                            25.76
+  30085 - Engineering Technician V                                             31.76
+  30086 - Engineering Technician VI                                            37.19
+  30090 - Environmental Technician                                             24.40
+  30095 - Evidence Control Specialist                                          23.28
+  30210 - Laboratory Technician                                                19.18
+  30221 - Latent Fingerprint Technician I                                      29.13
+  30222 - Latent Fingerprint Technician II                                     32.17
+  30240 - Mathematical Technician                                              23.28
+  30361 - Paralegal/Legal Assistant I                                          17.68
+  30362 - Paralegal/Legal Assistant II                                         22.18
+  30363 - Paralegal/Legal Assistant III                                        27.13
+  30364 - Paralegal/Legal Assistant IV                                         32.84
+  30375 - Petroleum Supply Specialist                                          28.46
+  30390 - Photo-Optics Technician                                              23.28
+  30395 - Radiation Control Technician                                         28.46
+  30461 - Technical Writer I                                                   24.08
+  30462 - Technical Writer II                                                  30.48
+  30463 - Technical Writer III                                                 35.64
+  30491 - Unexploded Ordnance (UXO) Technician I                               24.76
+  30492 - Unexploded Ordnance (UXO) Technician II                              29.96
+  30493 - Unexploded Ordnance (UXO) Technician III                             35.91
+  30494 - Unexploded (UXO) Safety Escort                                       24.76
+  30495 - Unexploded (UXO) Sweep Personnel                                     24.76
+  30501 - Weather Forecaster I                                                 25.77
+  30502 - Weather Forecaster II                                                31.34
+  30620 - Weather Observer, Combined Upper Air Or        (see 2)               20.94
+  Surface Programs
+  30621 - Weather Observer, Senior                       (see 2)               23.28
+31000 - Transportation/Mobile Equipment Operation Occupations
+  31010 - Airplane Pilot                                                       29.96
+  31020 - Bus Aide                                                             13.95
+  31030 - Bus Driver                                                           19.68
+  31043 - Driver Courier                                                       14.29
+  31260 - Parking and Lot Attendant                                            10.48
+  31290 - Shuttle Bus Driver                                                   15.36
+  31310 - Taxi Driver                                                          11.15
+  31361 - Truckdriver, Light                                                   15.29
+  31362 - Truckdriver, Medium                                                  18.77
+  31363 - Truckdriver, Heavy                                                   20.76
+  31364 - Truckdriver, Tractor-Trailer                                         20.76
+99000 - Miscellaneous Occupations
+  99020 - Cabin Safety Specialist                                              14.61
+  99030 - Cashier                                                              12.12
+  99050 - Desk Clerk                                                           11.50
+  99095 - Embalmer                                                             27.05
+  99130 - Flight Follower                                                      24.76
+  99251 - Laboratory Animal Caretaker I                                        12.31
+  99252 - Laboratory Animal Caretaker II                                       13.21
+  99260 - Marketing Analyst                                                    28.22
+  99310 - Mortician                                                            27.05
+  99410 - Pest Controller                                                      17.26
+  99510 - Photofinishing Worker                                                16.29
+  99710 - Recycling Laborer                                                    21.33
+  99711 - Recycling Specialist                                                 25.00
+  99730 - Refuse Collector                                                     19.43
+  99810 - Sales Clerk                                                          13.43
+  99820 - School Crossing Guard                                                13.99
+  99830 - Survey Party Chief                                                   28.66
+  99831 - Surveying Aide                                                       16.90
+  99832 - Surveying Technician                                                 23.14
+  99840 - Vending Machine Attendant                                            16.64
+  99841 - Vending Machine Repairer                                             19.64
+  99842 - Vending Machine Repairer Helper                                      16.94
+
+
+
+
+____________________________________________________________________________________
+Note: Executive Order (EO) 13706, Establishing Paid Sick Leave for Federal
+Contractors, applies to all contracts subject to the Service Contract Act for which
+the contract is awarded (and any solicitation was issued) on or after January 1,
+2017.  If this contract is covered by the EO, the contractor must provide employees
+with 1 hour of paid sick leave for every 30 hours they work, up to 56 hours of paid
+sick leave each year. Employees must be permitted to use paid sick leave for their
+own illness, injury or other health-related needs, including preventive care; to
+assist a family member (or person who is like family to the employee) who is ill,
+injured, or has other health-related needs, including preventive care; or for
+reasons resulting from, or to assist a family member (or person who is like family
+to the employee) who is the victim of, domestic violence, sexual assault, or
+stalking.  Additional information on contractor requirements and worker protections
+under the EO is available at www.dol.gov/whd/govcontracts.
+
+ALL OCCUPATIONS LISTED ABOVE RECEIVE THE FOLLOWING BENEFITS:
+
+HEALTH & WELFARE: $4.27 per hour or $170.80 per week or $740.13 per month
+
+VACATION: 2 weeks paid vacation after 1 year of service with a contractor or
+successor, 3 weeks after 5 years, and 4 weeks after 15 years.  Length of service
+includes the whole span of continuous service with the present contractor or
+successor, wherever employed, and with the predecessor contractors in the
+performance of similar work at the same Federal facility.  (Reg. 29 CFR 4.173)
+
+HOLIDAYS: A minimum of ten paid holidays per year:  New Year's Day, Martin Luther
+King Jr.'s Birthday, Washington's Birthday, Memorial Day, Independence Day,
+Labor Day, Columbus Day, Veterans' Day, Thanksgiving Day, and Christmas Day. (A
+contractor may substitute for any of the named holidays another day off with pay in
+accordance with a plan communicated to the employees involved.)  (See 29 CFR 4.174)
+
+
+
+THE OCCUPATIONS WHICH HAVE NUMBERED FOOTNOTES IN PARENTHESES RECEIVE THE FOLLOWING:
+
+1)  COMPUTER EMPLOYEES:  Under the SCA at section 8(b), this wage determination does
+not apply to any employee who individually qualifies as a bona fide executive,
+administrative, or professional employee as defined in 29 C.F.R. Part 541.  Because
+most Computer System Analysts and Computer Programmers who are compensated at a rate
+not less than $27.63 (or on a salary or fee basis at a rate not less than $455 per
+week) an hour would likely qualify as exempt computer professionals, (29 C.F.R. 541.
+400) wage rates may not be listed on this wage determination for all occupations
+within those job families.  In addition, because this wage determination may not
+list a wage rate for some or all occupations within those job families if the survey
+data indicates that the prevailing wage rate for the occupation equals or exceeds
+$27.63 per hour conformances may be necessary for certain nonexempt employees.  For
+example, if an individual employee is nonexempt but nevertheless performs duties
+within the scope of one of the Computer Systems Analyst or Computer Programmer
+occupations for which this wage determination does not specify an SCA wage rate,
+then the wage rate for that employee must be conformed in accordance with the
+conformance procedures described in the conformance note included on this wage
+determination.
+
+Additionally, because job titles vary widely and change quickly in the computer
+industry, job titles are not determinative of the application of the computer
+professional exemption.  Therefore, the exemption applies only to computer employees
+who satisfy the compensation requirements and whose primary duty consists of:
+    (1) The application of systems analysis techniques and procedures, including
+consulting with users, to determine hardware, software or system functional
+specifications;
+    (2) The design, development, documentation, analysis, creation, testing or
+modification of computer systems or programs, including prototypes, based on and
+related to user or system design specifications;
+    (3) The design, documentation, testing, creation or modification of computer
+programs related to machine operating systems; or
+    (4) A combination of the aforementioned duties, the performance of which
+requires the same level of skills.  (29 C.F.R. 541.400).
+
+2)  AIR TRAFFIC CONTROLLERS AND WEATHER OBSERVERS - NIGHT PAY & SUNDAY PAY:  If you
+work at night as part of a regular tour of duty, you will earn a night differential
+and receive an additional 10% of basic pay for any hours worked between 6pm and 6am.
+ If you are a full-time employed (40 hours a week) and Sunday is part of your
+regularly scheduled workweek, you are paid at your rate of basic pay plus a Sunday
+premium of 25% of your basic rate for each hour of Sunday work which is not overtime
+(i.e. occasional work on Sunday outside the normal tour of duty is considered
+overtime work).
+
+
+** HAZARDOUS PAY DIFFERENTIAL **
+
+An 8 percent differential is applicable to employees employed in a position that
+represents a high degree of hazard when working with or in close proximity to
+ordnance, explosives, and incendiary materials.  This includes work such as
+screening, blending, dying, mixing, and pressing of sensitive ordnance, explosives,
+and pyrotechnic compositions such as lead azide, black powder and photoflash powder.
+ All dry-house activities involving propellants or explosives.  Demilitarization,
+modification, renovation, demolition, and maintenance operations on sensitive
+ordnance, explosives and incendiary materials.  All operations involving re-grading
+and cleaning of artillery ranges.
+
+A 4 percent differential is applicable to employees employed in a position that
+represents a low degree of hazard when working with, or in close proximity to
+ordnance, (or employees possibly adjacent to) explosives and incendiary materials
+which involves potential injury such as laceration of hands, face, or arms of the
+employee engaged in the operation, irritation of the skin, minor burns and the like;
+minimal damage to immediate or adjacent work area or equipment being used.  All
+operations involving, unloading, storage, and hauling of ordnance, explosive, and
+incendiary ordnance material other than small arms ammunition.  These differentials
+are only applicable to work that has been specifically designated by the agency for
+ordnance, explosives, and incendiary material differential pay.
+
+** UNIFORM ALLOWANCE **
+
+If employees are required to wear uniforms in the performance of this contract
+(either by the terms of the Government contract, by the employer, by the state or
+local law, etc.), the cost of furnishing such uniforms and maintaining (by
+laundering or dry cleaning) such uniforms is an expense that may not be borne by an
+employee where such cost reduces the hourly rate below that required by the wage
+determination. The Department of Labor will accept payment in accordance with the
+following standards as compliance:
+
+The contractor or subcontractor is required to furnish all employees with an
+adequate number of uniforms without cost or to reimburse employees for the actual
+cost of the uniforms.  In addition, where uniform cleaning and maintenance is made
+the responsibility of the employee, all contractors and subcontractors subject to
+this wage determination shall (in the absence of a bona fide collective bargaining
+agreement providing for a different amount, or the furnishing of contrary
+affirmative proof as to the actual cost), reimburse all employees for such cleaning
+and maintenance at a rate of $3.35 per week (or $.67 cents per day).  However, in
+those instances where the uniforms furnished are made of "wash and wear"
+materials, may be routinely washed and dried with other personal garments, and do
+not require any special treatment such as dry cleaning, daily washing, or commercial
+laundering in order to meet the cleanliness or appearance standards set by the terms
+of the Government contract, by the contractor, by law, or by the nature of the work,
+there is no requirement that employees be reimbursed for uniform maintenance costs.
+
+** SERVICE CONTRACT ACT DIRECTORY OF OCCUPATIONS **
+
+The duties of employees under job titles listed are those described in the
+"Service Contract Act Directory of Occupations", Fifth Edition (Revision 1),
+dated September 2015, unless otherwise indicated.
+
+** REQUEST FOR AUTHORIZATION OF ADDITIONAL CLASSIFICATION AND WAGE RATE, Standard
+Form 1444 (SF-1444) **
+
+Conformance Process:
+
+The contracting officer shall require that any class of service employee which is
+not listed herein and which is to be employed under the contract (i.e., the work to
+be performed is not performed by any classification listed in the wage
+determination), be classified by the contractor so as to provide a reasonable
+relationship (i.e., appropriate level of skill comparison) between such unlisted
+classifications and the classifications listed in the wage determination (See 29 CFR
+4.6(b)(2)(i)).  Such conforming procedures shall be initiated by the contractor
+prior to the performance of contract work by such unlisted class(es) of employees
+(See 29 CFR 4.6(b)(2)(ii)).  The Wage and Hour Division shall make a final
+determination of conformed classification, wage rate, and/or fringe benefits which
+shall be paid to all employees performing in the classification from the first day
+of work on which contract work is performed by them in the classification.  Failure
+to pay such unlisted employees the compensation agreed upon by the interested
+parties and/or fully determined by the Wage and Hour Division retroactive to the
+date such class of employees commenced contract work shall be a violation of the Act
+and this contract.  (See 29 CFR 4.6(b)(2)(v)). When multiple wage determinations are
+included in a contract, a separate SF-1444 should be prepared for each wage
+determination to which a class(es) is to be conformed.
+
+The process for preparing a conformance request is as follows:
+
+1) When preparing the bid, the contractor identifies the need for a conformed
+occupation(s) and computes a proposed rate(s).
+
+2) After contract award, the contractor prepares a written report listing in order
+the proposed classification title(s), a Federal grade equivalency (FGE) for each
+proposed classification(s), job description(s), and rationale for proposed wage
+rate(s), including information regarding the agreement or disagreement of the
+authorized representative of the employees involved, or where there is no authorized
+representative, the employees themselves. This report should be submitted to the
+contracting officer no later than 30 days after such unlisted class(es) of employees
+performs any contract work.
+
+3) The contracting officer reviews the proposed action and promptly submits a report
+of the action, together with the agency's recommendations and pertinent
+information including the position of the contractor and the employees, to the U.S.
+Department of Labor, Wage and Hour Division, for review (See 29 CFR 4.6(b)(2)(ii)).
+
+4) Within 30 days of receipt, the Wage and Hour Division approves, modifies, or
+disapproves the action via transmittal to the agency contracting officer, or
+notifies the contracting officer that additional time will be required to process
+the request.
+
+5) The contracting officer transmits the Wage and Hour Division's decision to the
+contractor.
+
+6) Each affected employee shall be furnished by the contractor with a written copy
+of such determination or it shall be posted as a part of the wage determination (See
+29 CFR 4.6(b)(2)(iii)).
+
+Information required by the Regulations must be submitted on SF-1444 or bond paper.
+
+When preparing a conformance request, the "Service Contract Act Directory of
+Occupations" should be used to compare job definitions to ensure that duties
+requested are not performed by a classification already listed in the wage
+determination. Remember, it is not the job title, but the required tasks that
+determine whether a class is included in an established wage determination.
+Conformances may not be used to artificially split, combine, or subdivide
+classifications listed in the wage determination (See 29 CFR 4.152(c)(1)).
+

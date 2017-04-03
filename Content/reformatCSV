@@ -1,0 +1,6 @@
+import os, sys
+
+file = open('us.txt', 'w')
+data = file.readlines()
+
+print(data)
