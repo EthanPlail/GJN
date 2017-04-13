@@ -14,7 +14,7 @@ from smartystreets_python_sdk.us_zipcode import ClientBuilder, Lookup
 county = "PLYMOUTH"
 city = 'Abington'
 
-key = '043b08a0-8e1e-4a0c-aa74-0c717c26585f'
+key = '##'
 
 
 url = 'https://us-extract.api.smartystreets.com/?'

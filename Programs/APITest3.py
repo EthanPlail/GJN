@@ -7,7 +7,7 @@
 #import xmltodict
 import python_usdol
 
-conn = python_usdol.Connection(token="043b08a0-8e1e-4a0c-aa74-0c717c26585f", secret="@qqHWzms3kQb")
+conn = python_usdol.Connection(token="##", secret="##")
 
 data = conn.fetch_data("FORMS", "AgencyForms", filter_="AgencyId eq 'MSHA'")
 

@@ -9,7 +9,7 @@ import xmltodict
 state = str(sys.argv[1])
 city = str(sys.argv[2])
 
-key = '043b08a0-8e1e-4a0c-aa74-0c717c26585f'
+key = '##'
 
 
 url = 'http://api.dol.gov/V1/WHPS/?KEY=' + key
